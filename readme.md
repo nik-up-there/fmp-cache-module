@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="../../images/fast_modular_project.png" />
+  <a href="https://fast-modular-project.com" target="_blank">
+    <img src="https://fast-modular-project.com/assets/share/readme-module.png" alt="FMP Read me" />
+  </a>
 </p>
 
 # Module - Redis within NestJS
@@ -36,7 +38,7 @@ services:
     ports:
       - "${REDIS_PORT}:${REDIS_PORT}"
 
-  app:
+  front:
     ...
 </pre>
 Then run 
