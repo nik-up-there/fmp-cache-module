@@ -52,5 +52,5 @@ In this module, we will use one master redis node, without any replica.
 
 
 In this module, I will explain all the steps that you need in:
-- your NestJD backend
+- your NestJS backend
 - the docker setup
